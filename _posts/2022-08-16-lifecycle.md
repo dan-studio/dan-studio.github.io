@@ -5,6 +5,8 @@ title:  "[React] Component's Lifecycle (day16)"
 categories: React
 tags: react
 toc: true
+header:
+  teaser: /assets/images/React.jpeg
 sidebar: 
     nav: "main"
 ---

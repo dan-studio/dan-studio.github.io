@@ -2,9 +2,6 @@
 layout: single 
 title:  "Innovation Camp Algorithm feat.Programmers (day10)" 
 categories: algorithm
-toc: true
-sidebar: 
-    nav: "docs"
 ---
 
 ### 16. 문자열 내 p와 y의 개수

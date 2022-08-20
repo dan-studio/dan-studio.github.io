@@ -4,8 +4,10 @@ title:  "[React] react-router-dom Error (day18)"
 categories: React
 tags: react
 toc: true
+header:
+  teaser: "https://velog.velcdn.com/images/danchoi/post/eeec7075-0869-4c27-9be0-2f9d2be12af3/image.jpeg"
 sidebar: 
-    nav: "main"
+    nav: "docs"
 ---
 
 ![post-thumbnail](https://velog.velcdn.com/images/danchoi/post/eeec7075-0869-4c27-9be0-2f9d2be12af3/image.jpeg)

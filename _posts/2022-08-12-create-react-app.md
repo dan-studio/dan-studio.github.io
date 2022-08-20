@@ -3,9 +3,6 @@ layout: single
 title:  "[React] create-react-app"
 categories: React
 tags: react
-toc: true
-sidebar: 
-    nav: "docs"
 ---
 
 # [React](https://reactjs.org)

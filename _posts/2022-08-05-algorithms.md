@@ -2,9 +2,6 @@
 layout: single
 title:  "Innovation Camp Algorithm feat.Programmers (day5)"
 categories: algorithm
-toc: true
-sidebar: 
-    nav: "docs"
 ---
 [repository](https://github.com/dan-studio/algorithms)
   

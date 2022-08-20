@@ -2,9 +2,6 @@
 layout: single
 title:  "Innovation Camp JavaScript 과제 (day10)"
 categories: JavaScript
-toc: true
-sidebar: 
-    nav: "docs"
 ---
 
 <img src="https://velog.velcdn.com/images/danchoi/post/1cf256b0-1ff4-4f55-b594-50810cfae109/image.jpeg" alt="post-thumbnail" style="zoom:80%;" />

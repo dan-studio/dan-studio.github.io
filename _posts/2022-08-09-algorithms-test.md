@@ -2,9 +2,6 @@
 layout: single
 title:  "Innovation Camp Algorithm 모의고사 (day9)"
 categories: algorithm
-toc: true
-sidebar: 
-    nav: "docs"
 ---
 
 

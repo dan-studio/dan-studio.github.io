@@ -1,12 +1,8 @@
 --- 
 layout: single 
-
 title:  "Reviewing Basic Knowledge of FrontEnd"
 categories: FrontEnd
 tags: react
-toc: true
-sidebar: 
-    nav: "docs"
 ---
 
 Before moving on to React, I just wanted to review the Basic frontend Knowledge.

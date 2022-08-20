@@ -1,10 +1,11 @@
 --- 
 layout: single 
-
 title:  "[React] my-football-squad (day17)" 
 categories: React
 tags: react
 toc_sticky: true
+header:
+  teaser: "https://velog.velcdn.com/images/danchoi/post/f878b56d-be1a-4b6c-927b-da886ab9bfa6/image.jpeg"
 sidebar: 
     nav: "main"
 ---

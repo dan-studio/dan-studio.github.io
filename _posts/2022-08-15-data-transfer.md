@@ -1,12 +1,8 @@
 --- 
 layout: single 
-
 title:  "[React] 컴포넌트 간의 데이터 전달 방법  (day15)" 
 categories: React
 tags: react
-toc: true
-sidebar: 
-    nav: "docs"
 ---
 
 ![post-thumbnail](https://velog.velcdn.com/images/danchoi/post/bad31f41-5e76-4ab0-b60e-cb4742e30d19/image.jpeg)

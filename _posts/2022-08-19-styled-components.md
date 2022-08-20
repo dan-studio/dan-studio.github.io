@@ -5,12 +5,8 @@ subtitle: "styled-components"
 createDate: "2022-08-19"
 categories: React
 tags: react
-toc: true
-toc_sticky: true
 header:
   teaser: "/assets/images/React.jpeg"
-sidebar: 
-    nav: "main"
 ---
 
 
