@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[Redux] Keywords for Redux? (day22)" 
+title:  "[Redux] Keywords for Redux (day22)" 
 subtitle: "What Is Redux?"
 createDate: "2022-08-22"
 categories: Redux
