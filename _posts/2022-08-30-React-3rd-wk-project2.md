@@ -1,7 +1,7 @@
 ---
 layout: single 
 
-title:  "[React] React-Redux project(day29)" 
+title:  "[React] React-Redux project(day30)" 
 categories: React
 tags: react
 toc: true
