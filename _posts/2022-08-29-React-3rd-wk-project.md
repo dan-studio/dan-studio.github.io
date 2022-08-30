@@ -7,7 +7,6 @@ tags: react
 toc: true
 header:
   teaser: /assets/images/React.jpeg
-sidebar: 
 ---
 
 리엑트 심화주가 시작됨과 동시에 우리에게는 팀과제가 주어졌다.
@@ -39,7 +38,7 @@ sidebar:
 
 ## 주제
 
-음악 추천
+음악 추천 List
 
 ## 와이어프레임
 
@@ -64,3 +63,4 @@ Comming Soon...
 
 
 <img src="https://velog.velcdn.com/images/danchoi/post/76a99cfc-d7e1-494e-ae53-249591d78fdf/image.png" alt="img" style="zoom:70%;" />
+
