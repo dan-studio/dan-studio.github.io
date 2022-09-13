@@ -16,15 +16,13 @@ sidebar:
 
 부모컴포넌트로 부터 useState를 통해 자식 컴포넌트(tag Input)에 입력된 값(array)를 전달받아야 하는데 배열의 마지막 값을 가져오지 못하는것이 내 발목을 붙잡았다.
 
-
-
-![스크린샷 2022-09-13 오후 1.43.51](/Users/dan/Library/Application Support/typora-user-images/스크린샷 2022-09-13 오후 1.43.51.png)
+<img src="https://velog.velcdn.com/images/danchoi/post/85fffb0c-36f2-41a3-8414-db8b7914b4e3/image.png" alt="img" style="zoom:50%;" />
 
 (tag Input에 입력된 마지막 값이 console에는 찍히지 않음)
 
 하지만 자식컴포넌트 자체에서 콘솔에 찍었을 때는 입력된 모든 값이 잘 나오는 점을 확인하였다.
 
-![스크린샷 2022-09-13 오후 1.47.46](/Users/dan/Library/Application Support/typora-user-images/스크린샷 2022-09-13 오후 1.47.46.png)
+<img src="https://velog.velcdn.com/images/danchoi/post/59b3c145-25d1-4247-baec-1bbf7099b7cd/image.png" alt="img" style="zoom:50%;" />
 
 따라서 부모 컴포넌트로 부터 넘어온 props를 useEffect 안에 넣어줬다.
 
@@ -54,11 +52,9 @@ useEffect(()=>{
 
 다시 한번 useEffect를 짚고 넘어가자면
 
-![스크린샷 2022-09-13 오후 2.01.17](/Users/dan/Library/Application Support/typora-user-images/스크린샷 2022-09-13 오후 2.01.17.png)
+<img src="https://velog.velcdn.com/images/danchoi/post/87eadc86-f5f4-436a-9cf2-55b332c4dee6/image.png" alt="img" style="zoom:50%;" />
 
-
-
-![스크린샷 2022-09-13 오후 2.02.34](/Users/dan/Library/Application Support/typora-user-images/스크린샷 2022-09-13 오후 2.02.34.png)
+![img](https://velog.velcdn.com/images/danchoi/post/9a37790f-a379-4a24-87fc-0c5facdcb392/image.png)
 
 1. useEffect(callback)
 
