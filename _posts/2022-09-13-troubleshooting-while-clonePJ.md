@@ -16,6 +16,10 @@ sidebar:
 
 부모컴포넌트로 부터 useState를 통해 자식 컴포넌트(tag Input)에 입력된 값(array)를 전달받아야 하는데 배열의 마지막 값을 가져오지 못하는것이 내 발목을 붙잡았다.
 
+
+
+# 해결 과정
+
 <img src="https://velog.velcdn.com/images/danchoi/post/85fffb0c-36f2-41a3-8414-db8b7914b4e3/image.png" alt="img" style="zoom:50%;" />
 
 (tag Input에 입력된 마지막 값이 console에는 찍히지 않음)
@@ -49,6 +53,8 @@ useEffect(()=>{
 이 때 컴포넌트가 렌더링될 때마다 useEffect가 호출되도록 의존성 배열을 제거해줬다.
 
 그렇게 태그를 추가하니 정상적으로 부모 컴포넌트에 배열의 모든 데이터들이 정상적으로 넘어가는것을 확인할 수 있었다.
+
+# useEffect
 
 다시 한번 useEffect를 짚고 넘어가자면
 
