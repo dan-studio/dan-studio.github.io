@@ -1,4 +1,4 @@
-```
+---
 layout: single 
 
 title:  "트러블 슈팅"  
@@ -8,13 +8,15 @@ tags: react
 toc: true
 header:
 sidebar: 
-```
+---
+
+
 
 ## ⚠️ 에러 내용 및 원인
 
 댓글내의 댓글(대댓글)을 입력하면 첫 대댓글에만 흰화면 및 아래와 같은 오류가 발생하였다.
 
-![스크린샷 2022-10-07 오전 12.34.31](/Users/dan/Desktop/스크린샷 2022-10-07 오전 12.34.31.png)
+![](https://velog.velcdn.com/images/danchoi/post/e1ed676c-5654-4f71-8028-9b507ea27794/image.png)
 
 ## 기존 코드
 
