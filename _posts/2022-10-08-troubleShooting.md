@@ -1,7 +1,7 @@
 ---
 layout: single 
 
-title:  "트러블 슈팅"  
+title:  "트러블 슈팅 (null과 배열)"  
 categories: React
 createDate: "2022-10-08"
 tags: react
@@ -67,3 +67,7 @@ userApis
 - 방법 2.
 
   백엔드에 댓글을 등록할 시 subCommentList(대댓글 리스트)에 null값이 아닌 빈배열([])을 넣어달라고 요청을 한다.
+
+# 결과 
+
+![](https://velog.velcdn.com/images/danchoi/post/b9481833-dfe5-4cc5-9226-bccd50ec3ad7/image.png)
