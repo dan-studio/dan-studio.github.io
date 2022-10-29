@@ -42,31 +42,25 @@ userApis
 
 ## 🔆 해결 방안
 
-- 방법 1.
+댓글 등록시 spread문법을 이용하여 대댓글에 null이 아닌 빈배열을 넣어준다.
 
-  댓글 등록시 spread문법을 이용하여 대댓글에 null이 아닌 빈배열을 넣어준다.
-
-  ```jsx
-  userApis
-        .writeComment(commentMsg)
-        .then((res) => {
-          console.log(res);
-          setCertifyDetail((prev) => {
-            return {
-              ...prev,
-              commentList: [...prev.commentList, {...res.data, subCommentList:[]}],
-            };
-          });
-          setComment("");
-        })
-        .catch((err) => {
-          console.log(err);
+```jsx
+userApis
+      .writeComment(commentMsg)
+      .then((res) => {
+        console.log(res);
+        setCertifyDetail((prev) => {
+          return {
+            ...prev,
+            commentList: [...prev.commentList, {...res.data, subCommentList:[]}],
+          };
         });
-  ```
-
-- 방법 2.
-
-  백엔드에 댓글을 등록할 시 subCommentList(대댓글 리스트)에 null값이 아닌 빈배열([])을 넣어달라고 요청을 한다.
+        setComment("");
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+```
 
 # 결과 
 
