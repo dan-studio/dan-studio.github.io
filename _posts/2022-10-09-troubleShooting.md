@@ -10,8 +10,6 @@ header:
 sidebar: 
 ---
 
-# 1
-
 ## ⚠️ 에러 내용 및 원인
 
 ### form데이터에 담긴 데이터 조회 실패
@@ -55,7 +53,7 @@ const addClickHandler = () => {
 
 
 
-# 2
+
 
 ## ⚠️ 에러 내용 및 원인
 
